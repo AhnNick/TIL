@@ -14,4 +14,4 @@
 
 # Algorithm
 > 알고리즘은 기본적으로 [Algorithm Repository](https://github.com/AhnNick/Algorithm)에 커밋하며    
-> 풀지 못하거나 따로 기록으로 남긴 문제만 기록한다
+> 실패한 문제, 따로 기록한 문제 그리고 알고리즘 자체에 대한 기록만 남긴다
