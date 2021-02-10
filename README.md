@@ -8,7 +8,7 @@
 
 # Java
 
--
+- [자바의 데이터 타입](https://velog.io/@ahnick/Java-Data-Type)   : :  [ 2020. 02. 10 ]
 
 ---
 
