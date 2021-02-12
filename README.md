@@ -10,6 +10,7 @@
 
 - [자바의 데이터 타입](https://velog.io/@ahnick/Java-Data-Type)   : :  [ 2021. 02. 10 ]
 - [Call by Value, Call by Reference](https://velog.io/@ahnick/Java-Call-by-Value-Call-by-Reference) : : [ 2021. 02. 11 ]
+- [Overloading과 Overriding](https://velog.io/@ahnick/Java-Overloading%EA%B3%BC-Overriding) : : [ 2021. 02. 12 ]
 
 ---
 
