@@ -2,7 +2,7 @@
 
 >공부하며 얻은 지식들을 [Velog](https://velog.io/@ahnick)와 함께 기록으로 남기는 저장소  
 >>Start :: 2021. 02. 10  
->>Today :: D+2
+>>Today :: D+3
 
 ---
 
@@ -11,6 +11,7 @@
 - [자바의 데이터 타입](https://velog.io/@ahnick/Java-Data-Type)   : :  [ 2021. 02. 10 ]
 - [Call by Value, Call by Reference](https://velog.io/@ahnick/Java-Call-by-Value-Call-by-Reference) : : [ 2021. 02. 11 ]
 - [Overloading과 Overriding](https://velog.io/@ahnick/Java-Overloading%EA%B3%BC-Overriding) : : [ 2021. 02. 12 ]
+- [String, StringBuffer, StringBuilder](https://velog.io/@ahnick/Java-String-StringBuffer-StringBuilder) : : [ 2021. 02. 13 ]
 
 ---
 
