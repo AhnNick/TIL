@@ -2,7 +2,7 @@
 
 >공부하며 얻은 지식들을 [Velog](https://velog.io/@ahnick)와 함께 기록으로 남기는 저장소  
 >>Start :: 2021. 02. 10  
->>Today :: D+4
+>>Today :: D+5
 
 ---
 
@@ -13,6 +13,7 @@
 - [Overloading과 Overriding](https://velog.io/@ahnick/Java-Overloading%EA%B3%BC-Overriding) : : [ 2021. 02. 12 ]
 - [String, StringBuffer, StringBuilder](https://velog.io/@ahnick/Java-String-StringBuffer-StringBuilder) : : [ 2021. 02. 13 ]
 - [Annotation](https://velog.io/@ahnick/Java-Annotation) : : [ 2021. 02. 14 ]
+- [Interface, Abstract Class](https://velog.io/@ahnick/Java-Interface-Abstract-Class) : : [ 2021. 02. 15 ]
 
 ---
 
