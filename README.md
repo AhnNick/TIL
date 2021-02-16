@@ -14,6 +14,7 @@
 - [String, StringBuffer, StringBuilder](https://velog.io/@ahnick/Java-String-StringBuffer-StringBuilder) : : [ 2021. 02. 13 ]
 - [Annotation](https://velog.io/@ahnick/Java-Annotation) : : [ 2021. 02. 14 ]
 - [Interface, Abstract Class](https://velog.io/@ahnick/Java-Interface-Abstract-Class) : : [ 2021. 02. 15 ]
+- [Java Virtual Machine(JVM)](https://velog.io/@ahnick/Java-Java-Virtual-Machine) : : [ 2021. 02. 16 ]
 
 ---
 
