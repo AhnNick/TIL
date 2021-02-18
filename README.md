@@ -2,7 +2,7 @@
 
 >공부하며 얻은 지식들을 [Velog](https://velog.io/@ahnick)와 함께 기록으로 남기는 저장소  
 >>Start :: 2021. 02. 10  
->>Today :: D+7
+>>Today :: D+8
 
 ---
 
@@ -16,7 +16,7 @@
 - [Interface, Abstract Class](https://velog.io/@ahnick/Java-Interface-Abstract-Class) : : [ 2021. 02. 15 ]
 - [Java Virtual Machine(JVM)](https://velog.io/@ahnick/Java-Java-Virtual-Machine) : : [ 2021. 02. 16 ]
 - [Java Garbage Collection](https://velog.io/@ahnick/Java-Garbage-Collection) : : [ 2021. 02. 17 ]
-
+- [Generic](https://velog.io/@ahnick/Java-Generic) : : [ 2021. 02. 18 ]
 ---
 
 # Algorithm
