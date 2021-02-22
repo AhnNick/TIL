@@ -2,7 +2,7 @@
 
 >공부하며 얻은 지식들을 [Velog](https://velog.io/@ahnick)와 함께 기록으로 남기는 저장소  
 >>Start :: 2021. 02. 10  
->>Today :: D+11
+>>Today :: D+12
 
 ---
 
@@ -20,6 +20,13 @@
 - [Collection](https://velog.io/@ahnick/Java-Collection) : : [ 2021. 02. 19 ]
 - [Map](https://velog.io/@ahnick/Java-Map) : : [ 2021. 02. 20 ]
 - [Thread](https://velog.io/@ahnick/Java-Thread) : : [ 2021. 02. 21 ]
+
+---
+
+# Network
+
+- [TCP/IP, OSI 7 Layer](https://velog.io/@ahnick/TCPIP-OSI-7-Layer) : : [ 2021. 02. 22 ]
+
 ---
 
 # Algorithm
