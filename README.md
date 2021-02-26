@@ -2,7 +2,7 @@
 
 >공부하며 얻은 지식들을 [Velog](https://velog.io/@ahnick)와 함께 기록으로 남기는 저장소  
 >>Start :: 2021. 02. 10  
->>Today :: D+15
+>>Today :: D+16
 
 ---
 
@@ -22,6 +22,7 @@
 - [Thread](https://velog.io/@ahnick/Java-Thread) : : [ 2021. 02. 21 ]
 - [Optional](https://velog.io/@ahnick/Java-Optional) : : [ 2021. 02. 24 ]
 - [Lambda Expression](https://velog.io/@ahnick/Java-Lambda-Expression) : : [ 2021. 02. 25 ]
+- [Stream](https://velog.io/@ahnick/Java-Stream) : : [ 2021. 02. 26 ]
 
 ---
 
